@@ -3,11 +3,11 @@
 
 # TEAM
 
-	Noman
+	
 
 # THANKS
 
-    Thanks from feature, the second time
+   
 
 # TECHNOLOGY COLOPHON
 
